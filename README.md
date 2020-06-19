@@ -26,7 +26,9 @@
 <br>
 <br>
 
-## Translation Model
+### Translation Model
+- NMT (Neural Machine Translation)
+- French2English translation
 
 ### Model (LSTM+ATTENTION)
 - Encoder: LSTM
