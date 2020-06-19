@@ -11,14 +11,21 @@
 7. CNN - Sentimental Analysis
 8. RNN + Attention - NMT(Natural 
 <br>
+
 ---
+
 # 1. XOR
+
 <br>
 <br>
+
 ---
+
 # 8. RNN(LSTM) + Attention
+
 <br>
 <br>
+
 ## Translation Model
 
 ### Model (LSTM+ATTENTION)
