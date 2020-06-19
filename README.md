@@ -18,6 +18,10 @@
 
 <br>
 <br>
+### History
+- XOR(Exclusive OR) was not solved until MLP was recognized as the key method for solving XOR gate.
+
+
 
 ---
 
