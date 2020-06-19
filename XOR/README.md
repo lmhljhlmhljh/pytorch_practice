@@ -14,3 +14,6 @@
 <p align="center">
 	<img src="https://github.com/lmhljhlmhljh/pytorch_practice/blob/master/assets/Xor.png" width="300px" height="300px">
 </p>
+
+### Use
+- python XOR.py
