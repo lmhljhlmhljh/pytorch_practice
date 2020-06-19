@@ -1,5 +1,4 @@
-# 데이터과학 group 2
-# Bleu Score 를 계산
+# Calculating Bleu Score
 
 from math import exp
 
@@ -82,7 +81,7 @@ class Bleu():
 
 		if len(self.output) == 1 :
 			o_g = Bleu.one_gram(self)
-			return b_p*min(1,len(self.output)/len(self.target))*pow(o_g)
+			return b_p*min(1,len(self.output)/len(self.target))*o_g
 
 		elif len(self.output) == 2 :
 			o_g = Bleu.one_gram(self)
