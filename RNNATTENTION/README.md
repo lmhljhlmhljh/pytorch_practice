@@ -11,6 +11,8 @@
 - Encoder: LSTM
 - Decoder: LSTM + Attention
 
+!(LSTM+Attention)(https://github.com/lmhljhlmhljh/pytorch_practice/blob/master/RNNATTENTION/assets/rnn_attention.png)
+
 ### requirement
 torch
 
@@ -34,3 +36,5 @@ python main.py evaluate result/
 ``` bash
 python bleu.py
 ```
+
+!(Bleu Score)(https://github.com/lmhljhlmhljh/pytorch_practice/blob/master/RNNATTENTION/assets/bleu_score.png)
