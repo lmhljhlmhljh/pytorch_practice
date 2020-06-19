@@ -16,4 +16,6 @@
 </p>
 
 ### Use
-- python XOR.py
+``` bash
+python XOR.py
+```
