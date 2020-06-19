@@ -10,21 +10,22 @@
 6. FastText
 7. CNN - Sentimental Analysis
 8. RNN + Attention - NMT(Natural 
-
+<br>
 ---
 # 1. XOR
-
-
+<br>
+<br>
 ---
 # 8. RNN(LSTM) + Attention
+<br>
+<br>
+## Translation Model
 
-# Translation Model
-
-## Model (LSTM+ATTENTION)
+### Model (LSTM+ATTENTION)
 - Encoder: LSTM
 - Decoder: LSTM + Attention
 
-## requirement
+### requirement
 torch
 
 ### How to train
