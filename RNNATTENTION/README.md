@@ -29,3 +29,8 @@ python main.py evaluate result/
 ```
 - [dir] : checkpoints to be evaluated with bleu score
 - ABS_log.json will be made. (key:value - chkpt_num : Average Blue Score)
+
+### Calculating Bleu Score
+``` bash
+python bleu.py
+```
