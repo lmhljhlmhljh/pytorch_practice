@@ -9,5 +9,5 @@
 
 <!-- XOR IMAGE -->
 <p align="center">
-	<img src="https://github.com/lmhljhlmhljh/pytorch_practice/blob/master/assets/Xor.png" width="750px" height="300px">
+	<img src="https://github.com/lmhljhlmhljh/pytorch_practice/blob/master/assets/Xor.png" width="500px" height="300px">
 </p>
